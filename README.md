@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manhitv
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently working as a Data Scientist
+- 🌱 I’m currently pursuing my PhD at A2I2, Deakin University
 - 💞️ I’m looking to collaborate on solving Data Science problems
 - 📫 Find out more about me at https://manhitv.github.io/
 
