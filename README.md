@@ -8,6 +8,6 @@ My research focuses on:
 - **inference-time methods**
 - **multi-agent LLM systems**
 
-I am particularly interested in building **practical and trustworthy LLM systems** for open-ended question answering and real-world deployment.
+I am particularly interested in building **practical and trustworthy LLM systems** for real-world deployment.
 
 Before starting my PhD, I spent **5+ years** building machine learning systems and data science solutions in industry.
