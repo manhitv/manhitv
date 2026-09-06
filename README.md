@@ -4,7 +4,6 @@ I am a PhD researcher at <a href='https://a2i2.deakin.edu.au/'>A2I2</a>, Deakin 
 
 My research focuses on:
 - **Uncertainty Estimation**
-- **Budgeted Reasoning**
 - **Adaptive Computation**
 - **Multi-Agent Systems**
 
