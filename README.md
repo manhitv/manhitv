@@ -6,6 +6,7 @@ My research focuses on:
 - **Uncertainty Estimation**
 - **Budgeted Reasoning**
 - **Adaptive Computation**
+- **Multi-Agent Systems**
 
 I am particularly interested in building **practical and trustworthy LLM systems** for real-world deployment.
 
