@@ -4,8 +4,8 @@ I am a PhD researcher at <a href='https://a2i2.deakin.edu.au/'>A2I2</a>, Deakin 
 
 My research focuses on:
 - **Uncertainty Estimation**
-- **Adaptive Computation**
-- **Multi-Agent Systems**
+- **Test-time Scaling**
+- **Multi-agent Systems**
 
 I am particularly interested in building **practical and trustworthy LLM systems** for real-world deployment.
 
