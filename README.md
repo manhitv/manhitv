@@ -9,4 +9,4 @@ My research focuses on:
 
 I am particularly interested in building **practical and trustworthy LLM systems** for real-world deployment.
 
-Before starting my PhD, I spent **5+ years** building machine learning systems and data science solutions in industry.
+Before starting my PhD, I spent **6+ years** building production ML systems in industry.
